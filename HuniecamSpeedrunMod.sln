@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuniecamSpeedrunMod", "HuniecamSpeedrunMod.csproj", "{655F4461-8F02-4E9D-BC11-BBB29120ECBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655F4461-8F02-4E9D-BC11-BBB29120ECBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655F4461-8F02-4E9D-BC11-BBB29120ECBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655F4461-8F02-4E9D-BC11-BBB29120ECBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655F4461-8F02-4E9D-BC11-BBB29120ECBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C89F1B-2331-4ECD-ACFD-B38972F1B941}
+	EndGlobalSection
+EndGlobal
